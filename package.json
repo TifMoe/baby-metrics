@@ -1,0 +1,19 @@
+{
+  "name": "baby-metrics",
+  "version": "1.0.0",
+  "description": "tracking important baby things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TifMoe/baby-metrics.git"
+  },
+  "author": "Tiffany Moeller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TifMoe/baby-metrics/issues"
+  },
+  "homepage": "https://github.com/TifMoe/baby-metrics#readme"
+}
